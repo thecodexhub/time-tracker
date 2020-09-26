@@ -1,16 +1,15 @@
 # Time Tracker
 
-A new Flutter application.
+A complete time tracking application using Flutter and Firebase.
 
-## Getting Started
+## Features:
 
-This project is a starting point for a Flutter application.
+Ths project has several features:
+- use the various Firebase sign-in methods
+- build a robust authentication flow
+- use appropriate state management techniques to separate UI, logic and Firebase authentication code using BLoC
+- handle errors and present user-friendly error messages
+- create, read, update and delete job data from cloud firestore
+- showing different entries after transformation of data from Cloud firestore using RxDart
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project is made with the help of a Udemy course, for more click [here](https://www.udemy.com/course/flutter-firebase-build-a-complete-app-for-ios-android/)
