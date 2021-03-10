@@ -1,6 +1,6 @@
 # Time Tracker
 
-A complete Time Tracking application using Flutter and Firebase.
+A complete Time Tracking application built using Flutter and Firebase.
 
 ## Features:
 
