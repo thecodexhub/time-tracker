@@ -7,7 +7,7 @@ A Time Tracking application built using Flutter and Firebase.
 Ths project has several features:
 - use the various Firebase sign-in methods
 - build a robust authentication flow
-- use appropriate state management techniques to separate UI, logic and Firebase authentication code using BLoC
+- use appropriate state management techniques to separate UI, logic and Firebase code using Provider
 - handle errors and present user-friendly error messages
 - create, read, update and delete job data from cloud firestore
 - showing different entries after transformation of data from Cloud firestore using RxDart
